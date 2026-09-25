@@ -7,3 +7,6 @@ elif age<30:
 
 else:
     print("you are old")
+
+for i in range (10):
+    print(i)
